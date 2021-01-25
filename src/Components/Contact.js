@@ -32,8 +32,7 @@ const Contact = () => {
                                 <InputLabel htmlFor="my-input">Email address</InputLabel>
                                 <Input id="my-input" aria-describedby="my-helper-text" />
                                 <FormHelperText id="my-helper-text">We'll never share your email.</FormHelperText>
-                            </FormControl>
-                            <FormControl>
+                                 <br/>
                                 <InputLabel htmlFor="my-input">Message</InputLabel>
                                 <Input id="my-input" aria-describedby="my-helper-text" />
                                 <FormHelperText id="my-helper-text">Enter your message</FormHelperText>
