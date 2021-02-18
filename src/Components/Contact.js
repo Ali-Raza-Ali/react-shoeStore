@@ -42,7 +42,7 @@ const Contact = () => {
                                 <FormHelperText id="my-helper-text">Enter your message</FormHelperText>
                                 <br/>
                                 <Button variant="contained" color="primary" onClick="submit" type="submit" value="submit">
-                                    Primary
+                                    Submit
                                 </Button>   
                             </FormControl>
                             </form>
